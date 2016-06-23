@@ -1,0 +1,16 @@
+body{
+	background-color: #C70606;
+	color:darkblue;
+	front-size: 400%;
+	font-family: 'Droid Serif', serif;
+}
+
+h1, h2, p {
+	text-align: center;
+	
+img{
+	display: block;
+	margin: 0 auto;
+	width: 100% ;
+	hight: outo;
+}
